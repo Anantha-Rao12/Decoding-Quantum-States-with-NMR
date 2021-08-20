@@ -36,8 +36,11 @@
 At low temperatures, many materials transition into an electronic phase which cannot be classified as a simple metal or insulator. Novel quantum phases of matter like superconductors and spin liquids are harder to study due to their fragile nature, making non-intrusive and indirect measurements important. Scientists hence use NMR (Nuclear Magnetic resonance) to probe these materials externally. NMR is an experimental technique mainly used in quality control and scientific research to determine the molecular structure, purity, and content of any sample. The GSoC project idea is to explore the connection between electronic phases and nuclei in these materials via simulations of NMR, analyze the time-evolution of nuclear spins in external magnetic pulses, and classify them using suitable Machine Learning and Deep Learning models. We also aim to optimize an applied magnetic pulse sequence to best estimate a specific physical parameter from a given material.
 
 
-## 
+## Dataset
 
+<div align="center">
+<img src="https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR/blob/main/Assests/dataset.png"  alt="NMR simulation Dataset" width="600" height="300">
+</div>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
