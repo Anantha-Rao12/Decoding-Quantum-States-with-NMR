@@ -43,6 +43,26 @@ At low temperatures, many materials transition into an electronic phase which ca
 </div>
 
 
+## Results
+
+(---in-progress---)
+
+## Future Work and Conclusion
+
+(---in-progress---)
+
+I hope this project and auxillary scripts benefit someone who is trying to solve a similar problem. Although not the perfect solution, I hope these scripts can give you an idea of how to approach the problem. If you found something helpful, do consider starring the repository, creating an issue or just drop a message! 
+
+
+Have a good day! 
+
+
+
+<br><br>
+<br><br>
+For clarifications and queries -- [Anantha Rao](mailto:aanantha.s.rao@gmail.com?subject=[GSoC2021_NMR]) @2021
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/Anantha-Rao12/Decoding-Quantum-States-with-NMR.svg?style=flat-square
