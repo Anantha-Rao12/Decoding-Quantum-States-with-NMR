@@ -10,6 +10,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
+ A research project that uses Machine Learning techniques to study and understand the electronic properties of low-temperature materials via simulations of Nuclear Magnetic Resonance. 
+  
   <a href="https://ml4sci.org/" target="_blank"><img alt="gsoc@ml4sci" height="200px" src="https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR/blob/main/Assests/gsoc-ml4sci.jpg" /></a>
 
 </div>
