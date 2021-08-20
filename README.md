@@ -16,7 +16,7 @@
 
 </div>
 
-## Organization
+## Mentor Organization
 
 [Machine Learning for Science (ML4SCI)](https://ml4sci.org/)
 
