@@ -6,11 +6,11 @@
   
 
 [![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
-  <a href="https://ml4sci.org/" target="_blank"><img alt="gsoc@ml4sci" height="200px" src="https://github.com/Anantha-Rao12/NMR/blob/main/Decoding_Quantum_States_through_NMR_Anantha_Rao/Assests/gsoc-ml4sci.jpg" /></a>
+  <a href="https://ml4sci.org/" target="_blank"><img alt="gsoc@ml4sci" height="200px" src="https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR/blob/main/Assests/gsoc-ml4sci.jpg" /></a>
 
 </div>
 
@@ -26,7 +26,7 @@
 ## Project Proposal
 
 - [Project idea from Organization](https://ml4sci.org/gsoc/2021/proposal_NMR.html)
-- [Student Proposal](https://github.com/Anantha-Rao12/NMR/blob/main/Decoding_Quantum_States_through_NMR_Anantha_Rao/Assests/GSoC21-ML4SCI_NMR_Proposal-AnanthaRao.pdf)
+- [Student Proposal](https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR/blob/main/Assests/GSoC21-ML4SCI_NMR_Proposal-AnanthaRao.pdf)
 
 
 ## Abstract
@@ -40,10 +40,8 @@ At low temperatures, many materials transition into an electronic phase which ca
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Ehsan1997/NormalizingFlows_HEP.svg?style=flat-square
-[contributors-url]: https://github.com/Anantha-Rao12/NMR/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/AnanthaRao-12/NMR.svg?style=flat-square
-[license-url]: https://github.com/Anantha-Rao12/NMR/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Anantha-Rao12/Decoding-Quantum-States-with-NMR.svg?style=flat-square
+[contributors-url]: https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/anantha-s-rao/
 [twitter-shield]: https://img.shields.io/twitter/follow/anantharao00?color=%23000011&label=Follow
