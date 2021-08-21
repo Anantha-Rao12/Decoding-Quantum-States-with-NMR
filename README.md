@@ -56,7 +56,7 @@ You are ready to start experiemnting with the code!
 (---in-progress---)
 
 <div align="center">
-<img src="https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR/blob/main/Assests/dataset_1.png"  alt="NMR simulation Dataset" width="700" height="300">
+<img src="https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR/blob/main/Assests/dataset_1.png"  alt="NMR simulation Dataset" width="800" height="400">
 </div>
 
 ## Contributing
