@@ -53,7 +53,7 @@ You are ready to start experiemnting with the code!
 
 ## Dataset
 
-(---in-progress---)
+In atomic and condensed matter physics experiments, scientists use NMR as an non-intrusive method to understand strong electronic spin-spin correlations and non-dissipative spin-spin interactions between nuclei. To study a wide range of physical phenomenon, we simulate the behaviour of a typical [NMR spin echo experiment](https://en.wikipedia.org/wiki/Spin_echo) on a lattice of 2D spins with different kinds of inter-nuclei interactions and coupling-strengths. We employ a Gaussian, RKKY and a Power-Law type type kernel for the different kinds of inter-nuclei interactions to mimic long-range (gapped spin excitation, simple metal) and short-range (gapless spin excitations) interactions. Since the average magnetization measured during the spin echo is a function of the local interaction types and the electronic susceptibility of the underlying material, we aim to understand the material type and predict the coupling strengths from machine learning classification and regression models based solely on the shape of the echo curve. The dataset we use is the magnitude of magnetization measured during multiple insilico spin-echo experiments. 
 
 <div align="center">
 <img src="https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR/blob/main/Assests/dataset_1.png"  alt="NMR simulation Dataset" width="800" height="400">
@@ -85,11 +85,17 @@ Project Link: [https://github.com/AnanthaRao-12/Decoding-Quantum-States-with-NMR
 
 ## Results
 
-(---in-progress---)
+We build both classification models to classify the magnetization time-series into the three interaction types and regression models to predict interaction parameters (αx, αz, ξ) or the total kernel integral over the entire set of spins (Σ K(r(i,j)). We used ensemble learning and combined many weak decision tree learners to build a random-forest classifier/regressor. Furthermore, we extracted the essential features from the time-series and frequency domain data to understand the sub-sections during the echo-pulse that are most useful for understanding the material. More details about feature extraction methods and ML techniques are available in the `/Tutorial-nbs` section. 
+
+- Using machine learning, we were able to classify long-range interaction types (power law kernel) and short-range interaction types (gaussian and RKKY kernel type). 
+- With knowledge of the type of interaction, we were able to predict the value of the kernel integral with an R^2 of ~0.8
+
 
 ## Future Work
 
-(---in-progress---)
+- Based on the above promising results, we would like to further implore if deep learning can offer better performance on classification/regression without compromising the model’s interpretability. Although this would entail the need for larger datasets and computing power, the new insights garnered will be valuable in discerning new physics and further contribute to harnessing the data revolution to build and explore novel quantum materials. 
+- We would also like to explore the problem of trying to optimize and tune the 180-pulse and the echo-pulse in silico to predict the coupling-strengths with high accuracy.
+
 
 I hope this project and auxillary scripts benefit someone who is trying to solve a similar problem. Although not the perfect solution, I hope these scripts can give you an idea of how to approach the problem. If you found something helpful, do consider starring the repository, creating an issue or just drop a message! 
 
@@ -100,6 +106,8 @@ I hope this project and auxillary scripts benefit someone who is trying to solve
 [Machine Learning for Science (ML4SCI)](https://ml4sci.org/)
 
 [Dr. Stephen Carr](https://sites.google.com/view/stcarr), [Prof Vesna Mitrovic](https://brown.edu/Research/condensed-matter-nmr/), [Prof Chandrasekhar Ramanathan](https://sites.dartmouth.edu/quantum-spin-lab/), [Prof Brad Marston](https://sites.brown.edu/bradmarston/)
+
+A special token of gratitude to Dr Stephen Carr for his invaluable feedback, suggestions and advice on every aspect of the project and guiding me through the very process of scientific research. 
 
 ### Project Proposal
 
