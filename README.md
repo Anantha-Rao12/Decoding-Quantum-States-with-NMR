@@ -87,7 +87,7 @@ Project Link: [https://github.com/AnanthaRao-12/Decoding-Quantum-States-with-NMR
 
 We build both classification models to classify the magnetization time-series into the three interaction types and regression models to predict interaction parameters (αx, αz, ξ) or the total kernel integral over the entire set of spins (ΣK(r(i,j)). We used ensemble learning and combined many weak decision tree learners to build a random-forest classifier/regressor. Furthermore, we extracted the essential features from the time-series and frequency domain data to understand the sub-sections during the echo-pulse that are most useful for understanding the material. More details about feature extraction methods and ML techniques are available in the `/Tutorial-nbs` section. 
 
-- Using machine learning, we were able to classify long-range interaction types (power law kernel) and short-range interaction types (gaussian and RKKY kernel type). 
+- Using machine learning, we were able to classify long-range interaction types (power law kernel) and short-range interaction types (gaussian and RKKY kernel type) with an F1 score of ~0.88
 - With knowledge of the type of interaction, we were able to predict the value of the kernel integral with an R^2 of ~0.8
 
 
