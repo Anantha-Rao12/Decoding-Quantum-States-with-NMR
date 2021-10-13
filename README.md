@@ -16,7 +16,7 @@
 
 </div>
 
-Update 1: I recently wrote a blog post to summarize my work at GSoC'21 on TowardsDataScience. You can check it out [here](https://towardsdatascience.com/gsoc-2021-with-ml4sci-the-nmr-project-1a5e8995af9). 
+Update: I recently wrote a blog post to summarize my work at GSoC'21 on [TowardsDataScience](https://towardsdatascience.com/gsoc-2021-with-ml4sci-the-nmr-project-1a5e8995af9). 
 
 ## Table of Contents
 
